@@ -13,6 +13,6 @@
 
     Private Sub Button_Click_2(sender As Object, e As RoutedEventArgs)
         Console.WriteLine("hello world!")
-        txtButtonHW.Text = "Aaaaa"
+        txtButtonHW.Text = "Aaaaabb"
     End Sub
 End Class
